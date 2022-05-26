@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="x64"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="272"/>
+        <CursorPos X="5" Y="308"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="WPD.Zend.Types7.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="3" Y="42"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="WPD.PHP7.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="1072"/>
+        <CursorPos X="65" Y="1104"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="wpdefines.inc"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="107" Y="14"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\..\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="401"/>
+        <CursorPos X="3" Y="422"/>
+        <UsageCount Value="151"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\..\fpc\3.2.0\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="583"/>
+        <CursorPos Y="605"/>
+        <UsageCount Value="128"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\..\fpc\3.2.0\source\rtl\win\sysosh.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="26"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="563" TopLine="543"/>
+      </Position1>
+      <Position2>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="230" TopLine="220"/>
+      </Position2>
+      <Position3>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="232" TopLine="220"/>
+      </Position3>
+      <Position4>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="233" TopLine="229"/>
+      </Position4>
+      <Position5>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="235" TopLine="227"/>
+      </Position5>
+      <Position6>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="236" TopLine="227"/>
+      </Position6>
+      <Position7>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="237" TopLine="227"/>
+      </Position7>
+      <Position8>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="238" TopLine="230"/>
+      </Position8>
+      <Position9>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="284" Column="76" TopLine="272"/>
+      </Position9>
+      <Position10>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="261" TopLine="250"/>
+      </Position10>
+      <Position11>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="262" TopLine="256"/>
+      </Position11>
+      <Position12>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="264" TopLine="256"/>
+      </Position12>
+      <Position13>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="266" TopLine="256"/>
+      </Position13>
+      <Position14>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="271" TopLine="262"/>
+      </Position14>
+      <Position15>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="276" TopLine="268"/>
+      </Position15>
+      <Position16>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="277" TopLine="268"/>
+      </Position16>
+      <Position17>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="283" TopLine="268"/>
+      </Position17>
+      <Position18>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="284" TopLine="268"/>
+      </Position18>
+      <Position19>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="285" Column="64" TopLine="268"/>
+      </Position19>
+      <Position20>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="290" TopLine="268"/>
+      </Position20>
+      <Position21>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="291" TopLine="268"/>
+      </Position21>
+      <Position22>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="293" Column="16" TopLine="268"/>
+      </Position22>
+      <Position23>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="284" TopLine="268"/>
+      </Position23>
+      <Position24>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="288" TopLine="268"/>
+      </Position24>
+      <Position25>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="290" TopLine="268"/>
+      </Position25>
+      <Position26>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="291" TopLine="268"/>
+      </Position26>
+      <Position27>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="293" TopLine="268"/>
+      </Position27>
+      <Position28>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="284" TopLine="277"/>
+      </Position28>
+      <Position29>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="308" TopLine="280"/>
+      </Position29>
+      <Position30>
+        <Filename Value="php_screen_lazarus.pas"/>
+        <Caret Line="276" Column="5" TopLine="263"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="13">
+      <Item1>
+        <Kind Value="bpkAddress"/>
+        <Address Value="1999155665"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="590"/>
+      </Item2>
+      <Item3>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="514"/>
+      </Item3>
+      <Item4>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="262"/>
+      </Item4>
+      <Item5>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="564"/>
+      </Item5>
+      <Item6>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="211"/>
+      </Item6>
+      <Item7>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="213"/>
+      </Item7>
+      <Item8>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="155"/>
+      </Item8>
+      <Item9>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="148"/>
+      </Item9>
+      <Item10>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="232"/>
+      </Item10>
+      <Item11>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="146"/>
+      </Item11>
+      <Item12>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="271"/>
+      </Item12>
+      <Item13>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="php_screen_lazarus.pas"/>
+        <Line Value="292"/>
+      </Item13>
+    </BreakPoints>
+    <Watches Count="17">
+      <Item1>
+        <Expression Value="number"/>
+      </Item1>
+      <Item2>
+        <Expression Value="ht"/>
+      </Item2>
+      <Item3>
+        <Expression Value="this_ptr"/>
+      </Item3>
+      <Item4>
+        <Expression Value="input_arguments_count"/>
+      </Item4>
+      <Item5>
+        <Expression Value="FuncArgs"/>
+      </Item5>
+      <Item6>
+        <Expression Value="pzval(FuncArgs[0])"/>
+      </Item6>
+      <Item7>
+        <Expression Value="par[2]"/>
+      </Item7>
+      <Item8>
+        <Expression Value="longint(par[3])"/>
+      </Item8>
+      <Item9>
+        <Expression Value=" longint(p[3])"/>
+      </Item9>
+      <Item10>
+        <Expression Value="err"/>
+      </Item10>
+      <Item11>
+        <Expression Value="return_value_ptr"/>
+      </Item11>
+      <Item12>
+        <Expression Value="return_value"/>
+      </Item12>
+      <Item13>
+        <Expression Value="p1"/>
+      </Item13>
+      <Item14>
+        <Expression Value="p2"/>
+      </Item14>
+      <Item15>
+        <Expression Value="x"/>
+      </Item15>
+      <Item16>
+        <Expression Value="execute_data"/>
+      </Item16>
+      <Item17>
+        <Expression Value="pzend_execute_data(return_value)"/>
+      </Item17>
+    </Watches>
+  </Debugging>
+</CONFIG>
