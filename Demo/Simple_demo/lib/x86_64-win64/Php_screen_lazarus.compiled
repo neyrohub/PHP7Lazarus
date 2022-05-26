@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus64\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
-  <Params Value=" -Twin64 -Px86_64 -MObjFPC -Scghi -WR -O1 -g -gl -l -vewnhibq -FiC:\lazarus64\ProjectsMy\PhpScreen\PHP7\PhpScreen_laz\lib\x86_64-win64 -Fuc:\lazarus64\components\lazutils -FuC:\lazarus64\ProjectsMy\PhpScreen\PHP7\PhpScreen_laz\ -FUC:\lazarus64\ProjectsMy\PhpScreen\PHP7\PhpScreen_laz\lib\x86_64-win64\ -FEC:\lazarus64\ProjectsMy\PhpScreen\PHP7\PhpScreen_laz\ -oC:\lazarus64\ProjectsMy\PhpScreen\PHP7\PhpScreen_laz\php_screen_lazarus.dll php_screen_lazarus.pas"/>
-</CONFIG>
